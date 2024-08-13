@@ -1,4 +1,4 @@
-## One Week Five Solve - 1주 5알고리즘 챌린지🏃
+## One Week Five Solve - 1주 5알고리즘 챌린지🏃‍♂️
 
 ### 📢 Rules
 - 매주 2일 이상 + 5문제 이상 알고리즘 풀기
